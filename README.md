@@ -1,6 +1,8 @@
 # Human-resource-management-system
 大三上【JAVA】实训时写的 人力资源管理系统 。存档用。
 
+完整程序是打包好的，放一个AdminFrm.java是为了方便检索语言。
+
 完成时间：2022年1月1日
 
 详细图文报告见doc文档_(:з」∠)_
